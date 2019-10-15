@@ -1,0 +1,2 @@
+# mynuxtjsproject
+mynuxtjsproject
